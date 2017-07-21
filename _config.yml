@@ -1,1 +1,19 @@
 theme: jekyll-theme-cayman
+
+# Setup
+title:        Not a Wine Blog
+tagline:      Testing this shiz out
+baseurl:      ""
+paginate:     1
+
+# About/contact
+author:
+  name:       Eamon O'Brien
+  url:        http://notawineblog.com 
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
